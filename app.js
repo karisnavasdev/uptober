@@ -17,7 +17,7 @@
   }
 
   if (caText) {
-    caText.textContent = ca || "Soon on Base";
+    caText.textContent = ca || "0xb200000000000000000000200e15ef3d42db5a01";
     if (ca) caText.classList.add("is-live");
   }
 
